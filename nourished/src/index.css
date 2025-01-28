@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap");
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply font-cairo text-secondary;
+}
+
+@layer base {
+  :root {
+    --color-primary: 127, 173, 57;
+    --color-secondary: 28, 28, 28;
+    --modal: 0, 0, 0;
+  }
+  body {
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+}
+
+@layer components {
+  .container {
+    max-width: 1200px;
+  }
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-size: 20px;
+  font-weight: 1000;
+  color: #6f6f6f;
+}
+
+.slick-prev:before {
+  content: "<";
+}
+.slick-next:before {
+  content: ">";
+}
+.slick-prev,
+.slick-next {
+  margin: 0 10px;
+  width: 25px;
+  height: 60px;
+  border: 1px solid rgba(0, 0, 0, 0.187);
+  border-radius: 2px;
+}
+
+.slick-prev {
+  transform: translate(-40%, -50%);
+}
+.slick-next {
+  transform: translate(40%, -50%);
+}

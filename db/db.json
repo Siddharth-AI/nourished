@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "20df",
+      "name": "banana",
+      "category": "Shake",
+      "price": "40",
+      "description": "Nulla pretium eros ex, a scelerisque justo malesuada ut. Vestibulum velit diam, hendrerit sit amet ligula gravida, convallis vestibulum mauris. Aliquam dignissim velit tortor. Donec non pharetra metus.",
+      "image": "https://res.cloudinary.com/dl8pdgd0r/image/upload/v1738005323/etmfzykxruw3vagal1un.jpg"
+    },
+    {
+      "id": "1e4d",
+      "name": "burger",
+      "category": "Fruits",
+      "price": "80",
+      "description": "Nulla pretium eros ex, a scelerisque justo malesuada ut. Vestibulum velit diam, hendrerit sit amet ligula gravida, convallis vestibulum mauris. Aliquam dignissim velit tortor. Donec non pharetra metus.",
+      "image": "https://res.cloudinary.com/dl8pdgd0r/image/upload/v1738005351/rhggil2ysa4t8yn57wla.jpg"
+    },
+    {
+      "id": "c1a5",
+      "name": "mango",
+      "category": "Shake",
+      "price": "100",
+      "description": "Nulla pretium eros ex, a scelerisque justo malesuada ut. Vestibulum velit diam, hendrerit sit amet ligula gravida, convallis vestibulum mauris. Aliquam dignissim velit tortor. Donec non pharetra metus.",
+      "image": "https://res.cloudinary.com/dl8pdgd0r/image/upload/v1738005372/qrtfzk618mvnajfsfui3.jpg"
+    },
+    {
+      "id": "ef7a",
+      "name": "water melon",
+      "category": "Juice",
+      "price": "200",
+      "description": "Nulla pretium eros ex, a scelerisque justo malesuada ut. Vestibulum velit diam, hendrerit sit amet ligula gravida, convallis vestibulum mauris. Aliquam dignissim velit tortor. Donec non pharetra metus.",
+      "image": "https://res.cloudinary.com/dl8pdgd0r/image/upload/v1738005404/kujed1knbue5e5awbf5w.jpg"
+    },
+    {
+      "id": "55b3",
+      "name": "guava",
+      "category": "Juice",
+      "price": "70",
+      "description": "Nulla pretium eros ex, a scelerisque justo malesuada ut. Vestibulum velit diam, hendrerit sit amet ligula gravida, convallis vestibulum mauris. Aliquam dignissim velit tortor. Donec non pharetra metus.",
+      "image": "https://res.cloudinary.com/dl8pdgd0r/image/upload/v1738005431/oxpq6zmuxvr68pj03tnh.jpg"
+    },
+    {
+      "id": "4525",
+      "name": "orange",
+      "category": "Juice",
+      "price": "300",
+      "description": "Nulla pretium eros ex, a scelerisque justo malesuada ut. Vestibulum velit diam, hendrerit sit amet ligula gravida, convallis vestibulum mauris. Aliquam dignissim velit tortor. Donec non pharetra metus.",
+      "image": "https://res.cloudinary.com/dl8pdgd0r/image/upload/v1738005471/fnfnrr00zzvar6qowf7m.jpg"
+    }
+  ],
+  "auth": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "info",
+      "id": "996f"
+    }
+  ]
+}
