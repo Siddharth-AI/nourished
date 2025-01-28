@@ -176,7 +176,7 @@ This project uses the following npm packages:
 - Navigate to the `db` folder and start the JSON server:
   ```bash
   cd db
-  json-server --watch db.json
+  npx json-server db.json
   ```
 
 #### 2. **Start the React App**
