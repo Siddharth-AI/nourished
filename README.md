@@ -132,29 +132,20 @@ This project uses the following npm packages:
 
 - **DesktopView**:
 
+- **User**:
+
 <img src='./nourished/src/assets/screenshot/desktop/1.png'  width="800" height="400"/>
-<img src='./nourished/src/assets/screenshot/desktop/2.png'  width="800" height="400"/>
-<img src='./nourished/src/assets/screenshot/desktop/3.png'  width="800" height="400"/>
-<img src='./nourished/src/assets/screenshot/desktop/4.png'  width="800" height="400"/>
-<img src='./nourished/src/assets/screenshot/desktop/5.png'  width="800" height="400"/>
+
+- **Admin**:
+
 <img src='./nourished/src/assets/screenshot/desktop/6.png'  width="800" height="400"/>
-<img src='./nourished/src/assets/screenshot/desktop/7.png'  width="800" height="400"/>
-<img src='./nourished/src/assets/screenshot/desktop/8.png'  width="800" height="400"/>
-<img src='./nourished/src/assets/screenshot/desktop/9.png'  width="800" height="400"/>
-<img src='./nourished/src/assets/screenshot/desktop/10.png'  width="800" height="400"/>
   
 - **MobileView**:
 
 <img src='./nourished/src/assets/screenshot/mobile/1.png'  width="400" height="550"/>
-<img src='./nourished/src/assets/screenshot/mobile/2.png'  width="400" height="550"/>
-<img src='./nourished/src/assets/screenshot/mobile/3.png'  width="400" height="550"/>
-<img src='./nourished/src/assets/screenshot/mobile/4.png'  width="400" height="550"/>
-<img src='./nourished/src/assets/screenshot/mobile/5.png'  width="400" height="550"/>
-<img src='./nourished/src/assets/screenshot/mobile/6.png'  width="400" height="550"/>
-<img src='./nourished/src/assets/screenshot/mobile/7.png'  width="400" height="550"/>
+
 <img src='./nourished/src/assets/screenshot/mobile/8.png'  width="400" height="550"/>
-<img src='./nourished/src/assets/screenshot/mobile/9.png'  width="400" height="550"/>
-<img src='./nourished/src/assets/screenshot/mobile/10.png'  width="400" height="550"/>
+
 
 
 ## **How to Run the Project**
